@@ -9,3 +9,4 @@ I used goole colab to train the model , you can do the same or train it locally 
 
 the trained model had an accuracy of 91%
 here are the resluts of preditions for 30 images:
+![prediction results](results.png)
